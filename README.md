@@ -44,14 +44,14 @@ Add the package to composer.json:
 
 	"require": {
 		...
-		"wpb/string-blade-compiler": "VERSION"
+		"ahurov/string-blade-compiler": "VERSION"
 	},
 	
-> To get versions 'composer show wpb/string-blade-compiler', such as 'dev-master, * 3.2.x-dev, 3.2.0, 3.0.x-dev, 3.0.0, 2.1.0, 2.0.x-dev, 2.0.0, 1.0.x-dev, 1.0.0'
+> To get versions 'composer show ahurov/string-blade-compiler', such as 'dev-master, * 3.2.x-dev, 3.2.0, 3.0.x-dev, 3.0.0, 2.1.0, 2.0.x-dev, 2.0.0, 1.0.x-dev, 1.0.0'
 
-On packagist.org at https://packagist.org/packages/wpb/string-blade-compiler
+On packagist.org at https://packagist.org/packages/ahurov/string-blade-compiler
 	
-    composer require "wpb/string-blade-compiler"
+    composer require "ahurov/string-blade-compiler"
  	
 Configuration
 =======================
